@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906412990303",
+    "project_id": "solutionchallenge-c03da",
+    "storage_bucket": "solutionchallenge-c03da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906412990303:android:5b6abe17cd7cbbd63320ea",
+        "android_client_info": {
+          "package_name": "com.example.new_solarc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5OiQjltf740krNY-i27-EZY5ExymHfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
