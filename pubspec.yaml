@@ -1,0 +1,43 @@
+name: new_solarc
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.3.1
+  geolocator: ^9.0.2
+  http: ^0.13.5
+  url_launcher: ^6.1.7
+  jitsi_meet_wrapper: ^0.2.0+1
+  camera: ^0.10.5+9
+  geocoding: ^2.0.0
+  firebase_core: ^2.32.0
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.6.0
+  path: ^1.9.0
+  image_picker: ^1.0.4
+  speech_to_text: ^7.0.0
+  flutter_tts: ^3.6.3
+  flutter_markdown: ^0.6.17
+  cupertino_icons: ^1.0.8
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # ✅ 에셋 등록
+  assets:
+    - assets/images/chatbot_image.jpg
+    - .env
